@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dark Flare and I'm a Python Enthusiast, from Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Dark Flare and I'm a Python Enthusiast</h2>
 
 ###
 

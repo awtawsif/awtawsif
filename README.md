@@ -28,13 +28,14 @@ Hi there! I'm **Tawsif**, a passionate developer and lifelong learner. This is m
 
 ---
 
-## 🛠️ My Projects
+## 🛠️ My Works
 
-Here are two my favorite project:
+Here are some of my favorite works:
 
 - 🌟 **[Anime Downloader](https://github.com/awtawsif/anime-downloader)**: A modern, sleek project that downloads anime with ease.
 - ✨ **[Bangla Typing](https://github.com/awtawsif/bangla-typing)**: A modern, sleek bangla typing tutor. 
 - 📺 **[Starlight Anime Hub](https://starlight-anime-hub.vercel.app)**: An anime exploring/downloading site with retro style.
+
 Check out more in my [repositories](https://github.com/awtawsif?tab=repositories).
 
 ---

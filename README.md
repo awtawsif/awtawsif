@@ -6,8 +6,8 @@ Hi there! I'm **Tawsif**, a passionate developer and lifelong learner. This is m
 
 ## 🚀 About Me
 
-- 🤓 I'm a **Enthusiastic coder**.
-- 🌱 I’m learning **Python, C, Linux etc.**
+- 🤓 I'm an **Enthusiastic coder**.
+- 🌱 I’m learning **Python, C, JavaScript, Shell Script, Linux etc.**
 - 💡 I love creating **Automation Releated Projects**
 - 🎨 Fun fact: **I use Arch, btw**
 

@@ -9,9 +9,7 @@ Hi there! I'm **Tawsif**, a passionate developer and lifelong learner. This is m
 - 🤓 I'm an **Enthusiastic developer**.
 - 🔭 I'm currently working on [Starlight Anime Hub](https://github.com/awtawsif/starlight-anime-hub)
 - 👯 I’m looking to collaborate on [Bangla Typing](https://github.com/awtawsif/bangla-typing)
-- 🌱 I’m learning **Python, C, JavaScript, Shell Script, Linux etc.**
-- 💡 I love creating **Automation Releated Projects**
-- 🎨 Fun fact: **I use Arch, btw**
+- 🌱 I’m learning **Python, C, Bash, Flutter, etc**.
 
 ---
 
@@ -19,7 +17,6 @@ Hi there! I'm **Tawsif**, a passionate developer and lifelong learner. This is m
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 

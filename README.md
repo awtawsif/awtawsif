@@ -38,7 +38,7 @@ Hi there! I'm **Tawsif**, a passionate developer and lifelong learner. This is m
 
 Here you will find all of my works.
 
-- ✨ **[Tawsif.dev Lab](https://tawsifdev.vercel.lab)**
+- ✨ **[Tawsif.dev Lab](https://tawsifdev.vercel.app/)**
 
 ---
 

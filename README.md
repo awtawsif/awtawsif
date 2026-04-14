@@ -7,42 +7,38 @@ Hi there! I'm **Tawsif**, a passionate developer and lifelong learner. This is m
 ## 🚀 About Me
 
 - 🤓 I'm an **Enthusiastic developer**.
-- 🔭 I'm currently working on [Starlight Anime Hub](https://github.com/awtawsif/starlight-anime-hub)
+- 🔭 I'm currently working on [Starlight Anime Hub](https://github.com/awtawsif/starlight-anime-hub) and [Konapaper](https://github.com/awtawsif/konapaper)
 - 👯 I’m looking to collaborate on [Bangla Typing](https://github.com/awtawsif/bangla-typing)
-- 🌱 I’m learning **Python, C, Bash, Flutter, etc**.
+- 🌱 I’m learning **Flutter, Java etc**.
 
 ---
 
 ## 🔧 Tech Stack
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=awtawsif&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=awtawsif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=awtawsif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=awtawsif&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=awtawsif&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=awtawsif&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🛠️ My Works
+## 🛠️ My Portfolio
 
-Here are some of my favorite works:
+Here you will find all of my works.
 
-- ✨ **[Bangla Typing](https://github.com/awtawsif/bangla-typing)**: A modern, sleek bangla typing tutor. 
-- 📺 **[Starlight Anime Hub](https://starlight-anime-hub.vercel.app)**: An anime exploring/downloading site with retro style.
-- 💸 **[Finance Flow](https://finance-flow-sigma-seven.vercel.app/)**: A personal budget tracker.
-- 🔑 **[Passman](https://github.com/awtawsif/passman)**: A well-made, secure password manager.
-
-Check out more in my [repositories](https://github.com/awtawsif?tab=repositories).
+- ✨ **[Tawsif.dev Lab](https://tawsifdev.vercel.lab)**
 
 ---
 

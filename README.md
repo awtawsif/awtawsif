@@ -32,14 +32,5 @@ Hi there! I'm **Tawsif**, a passionate developer and lifelong learner. This is m
 ![](https://streak-stats.demolab.com/?user=awtawsif&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=awtawsif&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## 🛠️ My Portfolio
-
-Here you will find all of my works.
-
-- ✨ **[Tawsif.dev Lab](https://tawsifdev.vercel.app/)**
-
----
 
 Thanks for visiting! 🌟 Keep exploring and stay awesome. ✨

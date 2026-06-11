@@ -7,7 +7,6 @@ Hi there! I'm **Tawsif**, a passionate developer and lifelong learner. This is m
 ## 🚀 About Me
 
 - 🤓 I'm an **Enthusiastic developer**.
-- 🔭 I'm currently working on [Starlight Anime Hub](https://github.com/awtawsif/starlight-anime-hub) and [Boorupaper](https://github.com/awtawsif/boorupaper)
 - 👯 I’m looking to collaborate on [Bangla Typing](https://github.com/awtawsif/bangla-typing)
 - 🌱 I’m learning **Flutter, Java etc**.
 
